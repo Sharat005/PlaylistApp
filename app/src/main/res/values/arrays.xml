@@ -1,0 +1,59 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="songName">
+        <item>Hey you</item>
+        <item>Shape of You</item>
+        <item>Hotel California</item>
+        <item>Stitches</item>
+        <item>Mockingbird</item>
+        <item>Blank Space</item>
+        <item>Senorita</item>
+        <item>Attention</item>
+        <item>Without Me</item>
+        <item>Not Afraid</item>
+        <item>Roar</item>
+        <item>Heathens</item>
+    </string-array>
+    <string-array name="singerName">
+        <item>Pink floyd</item>
+        <item>Ed Sheeran</item>
+        <item>Eagles</item>
+        <item>Shawn Mendes</item>
+        <item>Eminem</item>
+        <item>Taylor Swift</item>
+        <item>Shawn Mendes</item>
+        <item>Charlie puth</item>
+        <item>Halsey</item>
+        <item>Eminem</item>
+        <item>Katy Perry</item>
+        <item>Twenty One pilots</item>
+    </string-array>
+    <string-array name="SingerDetails" >
+        <item>https://en.wikipedia.org/wiki/Pink_Floyd</item>
+        <item>https://en.wikipedia.org/wiki/Ed_Sheeran</item>
+        <item>https://en.wikipedia.org/wiki/Eagles_(band)</item>
+        <item>https://en.wikipedia.org/wiki/Shawn_Mendes</item>
+        <item>https://en.wikipedia.org/wiki/Eminem</item>
+        <item>https://en.wikipedia.org/wiki/Taylor_Swift</item>
+        <item>https://en.wikipedia.org/wiki/Shawn_Mendes</item>
+        <item>https://en.wikipedia.org/wiki/Charlie_Puth</item>
+        <item>https://en.wikipedia.org/wiki/Halsey_(singer)</item>
+        <item>https://en.wikipedia.org/wiki/Eminem</item>
+        <item>https://en.wikipedia.org/wiki/Katy_Perry</item>
+        <item>https://en.wikipedia.org/wiki/Twenty_One_Pilots</item>
+    </string-array>
+    <string-array name="SongDetails" >
+        <item>https://en.wikipedia.org/wiki/Hey_You_(Pink_Floyd_song)</item>
+        <item>https://en.wikipedia.org/wiki/Shape_of_You</item>
+        <item>https://en.wikipedia.org/wiki/Hotel_California</item>
+        <item>https://en.wikipedia.org/wiki/Stitches_(Shawn_Mendes_song)</item>
+        <item>https://en.wikipedia.org/wiki/Mockingbird_(Eminem_song)</item>
+        <item>https://en.wikipedia.org/wiki/Blank_Space</item>
+        <item>https://en.wikipedia.org/wiki/Se%C3%B1orita_(Shawn_Mendes_and_Camila_Cabello_song)</item>
+        <item>https://en.wikipedia.org/wiki/Attention_(Charlie_Puth_song)</item>
+        <item>https://en.wikipedia.org/wiki/Without_Me_(Halsey_song)</item>
+        <item>https://en.wikipedia.org/wiki/Not_Afraid</item>
+        <item>https://en.wikipedia.org/wiki/Roar_(song)</item>
+        <item>https://en.wikipedia.org/wiki/Heathens_(song)</item>
+    </string-array>
+</resources>
